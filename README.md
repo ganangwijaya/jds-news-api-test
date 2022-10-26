@@ -1,4 +1,4 @@
-## News Management API
+# News Management API
 
 News management API built with Laravel to complete JDS Techincal Test.
 
@@ -9,7 +9,7 @@ News management API built with Laravel to complete JDS Techincal Test.
 3. [x] Only admin can create, update, and delete the news.
 4. [x] One news has one image, admin can upload it along with the news creation (in creation form).
 5. [ ] Use event & listener to create log in separate table when a news is created, updated, and deleted.
-6. [x] Make non1.admin users can post comments to a news.
+6. [x] Make non admin users can post comments to a news.
 7. [ ] Use Redis for queuing the comment creation process.
 8. [x] Each API response has to use Laravel API Resource.
 9. [x] Make pagination for the news list API.
